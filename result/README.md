@@ -2,7 +2,7 @@
 # Readme Generator
 
 ## Description
-This application will help you to create a professional Readme File.
+This application will help you to create a professional Readme File with ease.
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -13,21 +13,21 @@ This application will help you to create a professional Readme File.
 6. [Questions](#questions)
 
 ## Installation
-First, run the command ```npm i```
+First, you will need to run the command ```npm i```
 
 ## Usage
-Then, you will run the command ```node index.js```
+Then, run the command ```node index.js``` and follow the next steps given by the app.
 
 ## License
 MIT: https://opensource.org/licenses/MIT
 
 ## Contributing
-These are the guidelines we will follow.
+These are the guidelines.
 
 ## Tests
-The instructions are given here.
+These were the testing.
 
 ## Questions
 - Github: [Albert-Cifer](https://github.com/Albert-Cifer)
-- Email: Fguz414@gmail.com
+- Email: fguz414@gmail.com
   

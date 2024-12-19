@@ -34,5 +34,5 @@ After answering all the questions, a README.md file will be created and stored i
 > Be careful! Running the application again will overwrite you current README.md file!
 
 ## Demo
-[Video](https://drive.google.com/file/d/1lf-YveYkJ0iVPEbKjGyrhlsg4Jm4ylZZ/view?usp=sharing)
+[Video](https://youtu.be/wMnU7WhVIkU)
   
